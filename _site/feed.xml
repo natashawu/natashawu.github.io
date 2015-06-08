@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Natasha&#39;s Plog (Programming Blog)</title>
+    <description>This is a blog where I (Natasha Wu) will share my incredible insights on learning programming and dazzle my readers with clever prose and powerful narrative.
+</description>
+    <link>http://yourdomain.com/</link>
+    <atom:link href="http://yourdomain.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sun, 07 Jun 2015 23:01:11 -0500</pubDate>
+    <lastBuildDate>Sun, 07 Jun 2015 23:01:11 -0500</lastBuildDate>
+    <generator>Jekyll v2.4.0</generator>
+    
+      <item>
+        <title>Day #22 - The In-Person Beginning</title>
+        <description>&lt;p&gt;It was a drizzly Sunday morning. The day we had all been waiting for finally arrived -- the first day of school! &lt;/p&gt;
+
+&lt;p&gt;After a tour around the amazing 1871 coworking space, we began an overview of key lessons we would consistently be reminded of throughout the class. A few that stuck:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Every piece of tech has its pros and cons -- we were reminded that there is a time and place for everything. There are rarely hard, fast rules about what language/software/etc. works best 100% of the time (even if many developers think there are). &lt;/li&gt;
+&lt;li&gt;Tinker! -- we were told that programming is about testing many possible solutions. If you’re not sure which way to go, just try something out and see what happens. &lt;/li&gt;
+&lt;li&gt;Always be learning -- wonderfully simplistic and completely self-explanatory.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Our first lecture made me feel like a true hacker. Wait...I can do all these things from the Terminal?! From &lt;code&gt;cd-ing&lt;/code&gt; into new directories (basically going from one folder to another WITHOUT using Finder!) to learning the dangers of &lt;code&gt;rm -rf&lt;/code&gt; (this gives us the power to delete ANY file on our computers...permanently), at this point, we felt pretty much like computer whizzes. &lt;/p&gt;
+
+&lt;p&gt;Then, we learned about this confusing thing called Git and this popular site that uses it called GitHub. All in all, it’s a site where you can push your code into the cloud so that if (&lt;strong&gt;when&lt;/strong&gt; -- as our instructor always says) your computer crashes, you still have a backup copy of it. It’s also commonly used as a way for programmers to collaborate on projects together. &lt;/p&gt;
+
+&lt;p&gt;The most important four lines of code that I learned today: &lt;/p&gt;
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-text&quot; data-lang=&quot;text&quot;&gt;git init
+# This line tells git to initiate tracking changes of the folder you’re currently navigated in
+
+git add --all
+# This line prepares to add all the files to a git repository
+
+git commit -m ‘initial commit’
+# This line commits any changes made and allows you to put in your own commit message between the apostrophes
+
+git push origin master
+# This line pushes all the files up to GitHub in a new repository that you create
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</description>
+        <pubDate>Sun, 17 May 2015 00:00:00 -0500</pubDate>
+        <link>http://yourdomain.com/2015/05/17/day-twentytwo.html</link>
+        <guid isPermaLink="true">http://yourdomain.com/2015/05/17/day-twentytwo.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Day #15 - To: My Current City of Inhabitance</title>
+        <description>&lt;p&gt;Dear Chicago,&lt;br&gt;
+Just so you know…&lt;br&gt;
+May != rainy season&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/051015_IMG_2971_small.jpg&quot; alt=&quot;50 degrees and cloudy&quot;&gt;&lt;/p&gt;
+
+&lt;p&gt;Sincerely,&lt;br&gt;
+Confused Californian&lt;/p&gt;
+</description>
+        <pubDate>Sun, 10 May 2015 00:00:00 -0500</pubDate>
+        <link>http://yourdomain.com/2015/05/10/day-fifteen.html</link>
+        <guid isPermaLink="true">http://yourdomain.com/2015/05/10/day-fifteen.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Day #9 - Feelin&#39; Lucky</title>
+        <description>&lt;p&gt;My friends and family are honestly the best. Without them as a support system, I definitely would not have been able to do what I’m setting off to do. California, you’ve been so good to me. Thank you. &lt;/p&gt;
+
+&lt;p&gt;First day in Chicago has already been quite the adventure!&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;In an attempt to avoid the ridiculously long taxi line, I opted to take the train into The Loop. After wrestling with the ticket machine, I finally got it to take my money and purchased my ticket for the orange line.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Instead of transferring to the red line, I decided to just call an Uber to take me the rest of the way. Upon exiting the train, my luggage and I got stuck in the revolving gate at Randolph / Wabash. Determined not to make the headlines of the local news (“California Girl Gets Stuck Exiting the El”), I doggedly inched my way out of the gate. &lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Without enough strength or balance to carry all my luggage down a flight of rickety wooden stairs in one go, I proceeded to carry my suitcase (48 lbs.) and duffle bag (24 lbs.) down half a flight at a time until I reached street level. &lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;As I approached my Uber, the driver popped open the trunk and waited for me to load my luggage into the car. After finally settling in to the front seat, he jokingly asked “Did a little too much shopping, huh?” I proceeded to restrain myself from punching him in the face. &lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;As I stood outside the building of my temporary home, with my duffle bag hanging around my neck like a chunky statement necklace (as the shoulder strap had broken as I exited the train), my AirBnB host and I texted back and forth trying to figure out the entrance code to his apartment building. 080 -- never would have guessed that. &lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Luckily, at the end of the night, I was able to catch up with two familiar faces :)
+&lt;img src=&quot;/images/050415_IMG_2688_small.gif&quot; alt=&quot;I love my friends!&quot;&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;It wasn’t easy, but I made it. And I’m not planning on stopping any time soon. &lt;/p&gt;
+</description>
+        <pubDate>Mon, 04 May 2015 00:00:00 -0500</pubDate>
+        <link>http://yourdomain.com/2015/05/04/day-nine.html</link>
+        <guid isPermaLink="true">http://yourdomain.com/2015/05/04/day-nine.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Day #8 - Note To Self</title>
+        <description>&lt;p&gt;“The computer is never wrong, you’re just telling it the wrong thing.”&lt;br&gt;
+- Jonny Wang, Good Friend &amp;amp; Master Programmer&lt;/p&gt;
+</description>
+        <pubDate>Sun, 03 May 2015 00:00:00 -0500</pubDate>
+        <link>http://yourdomain.com/2015/05/03/day-eight.html</link>
+        <guid isPermaLink="true">http://yourdomain.com/2015/05/03/day-eight.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Day #2 - The OTHER Chris Pine</title>
+        <description>&lt;p&gt;Today, I continued watching more screencasts prepared by our wonderfully hilarious instructor, Jay Wengrow. I’m starting to think I like programmers’ brand of humor. Maybe I really am more ready for this than I thought…!&lt;/p&gt;
+
+&lt;p&gt;Anyhow, the screencasts really make me feel like I can learn to code, which is awesome! I&amp;#39;ve still been getting stuck on some of the exercises, but I’m working on figuring those out. We’ve been making some pretty simple programs. One of my favorites, thus far: &lt;/p&gt;
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;This is a word randomizer! Please enter a word that you would like randomized.&amp;quot;&lt;/span&gt;
+
+&lt;span class=&quot;n&quot;&gt;word&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;gets&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;chomp&lt;/span&gt;
+
+&lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;Here is your word randomized!&amp;quot;&lt;/span&gt;
+
+&lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;word&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;split&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&amp;quot;&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;shuffle&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;join&lt;/span&gt;
+
+&lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;Thanks for playing!&amp;quot;&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;In this program, the user is asked to input a word and the program spits out a randomized version of the inputted word. Here, I&amp;#39;m setting the variable &amp;#39;word&amp;#39; to &lt;code&gt;gets.chomp&lt;/code&gt; which is a command used to recieve input from the user. To randomize the word, the program 1.) splits up the user&amp;#39;s input into it&amp;#39;s individual characters then 2.) shuffles the positions of the characters into a random order and finally 3.) joins all the characters back together and returns the result to the user. &lt;/p&gt;
+
+&lt;p&gt;Super simple, but I’m totally cool with starting off slow. &lt;/p&gt;
+
+&lt;p&gt;I also started reading our e-textbook, Learn to Program by Chris Pine (the L.A. girl in me totally summoned up an image of Captain Kirk from the latest Star Trek movie...embarrassing, I know). At first, I was a little intimidated because 1.) I haven’t read a textbook in many years and 2.) I hate reading large quantities of text on a computer screen. However, I’m finding it to be another wonderful resource to have at our disposal! &lt;/p&gt;
+
+&lt;p&gt;In his introduction, Pine writes about how “[a] program is not built; it is grown,” suggesting that a program is meant to be tested, edited and finagled with. Keeping that in mind, it seems to me that the process taken to get to the end result should be regarded as being just as important as the result itself. As a designer, that idea is something I really resonated with. I have always felt that the work I am most proud of are those pieces that challenged me -- the ones that urged me to question my initial instinct; the ones that pushed me to the brink of insanity in order to show me how to turn something good into something great. &lt;/p&gt;
+
+&lt;p&gt;I look forward to approaching coding with a similar mindset as I’m sure the programs that at times make me want to rip my hair out will be the ones that I’m most proud of in the end. &lt;/p&gt;
+</description>
+        <pubDate>Mon, 27 Apr 2015 00:00:00 -0500</pubDate>
+        <link>http://yourdomain.com/2015/04/27/day-two.html</link>
+        <guid isPermaLink="true">http://yourdomain.com/2015/04/27/day-two.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Day #1 - Out of the Loop</title>
+        <description>&lt;p&gt;I recently quit my job as a graphic designer at an entertainment ad agency in Los Angeles to move over 2,000 miles away to a city I’ve never been to before, to pursue a career path that I have no background in. Why? Because the best cure for complacency is change. &lt;/p&gt;
+
+&lt;p&gt;I’ve wanted to learn how to code for a while now as I’ve always thought it to be an integral part of being a strong designer in our digitally-focused world. I kept telling myself I would just learn on my own. With all the online programs and tutorials out there, how hard could it be? “Now that I’m out of school, I’ll have so much more free time to accomplish my life goals!” I thought. Little did I know that on the days when I actually got out of work at a decent hour, all I wanted to do after battling traffic to get home (yes, sometimes there’s still traffic in L.A. at 8PM) was get a couple extra hours of sleep or me-time. &lt;/p&gt;
+
+&lt;p&gt;I loved the people that I worked with, but the repetitiveness of what I was doing at work was leeching away all the creativity out of a job that’s meant to be creative. And it wasn’t just the work I was tired of, it was me. I was tired of being consistently decent. I was tired of being content with the status quo. I was tired of who I had become. &lt;/p&gt;
+
+&lt;p&gt;Wake up, work, sleep. Wake up, work, sleep. Go out on Saturday. Recover on Sunday. Repeat. &lt;/p&gt;
+
+&lt;p&gt;One day, I called my mom in a panic and told her that I felt like I was treadmill that had no stop button. I was letting external factors control what I really wanted to do and my soul was suffering from it. I was stuck in an infinite loop and I couldn’t find ctrl + c. In that moment, I realized that the only way to get off that treadmill, was to jump. So I did, and never I looped back (heh heh. Clearly it’s just me laughing...).&lt;/p&gt;
+
+&lt;p&gt;Now, here I am, enrolled in code school and phenomenally excited to start learning something new. &lt;/p&gt;
+
+&lt;p&gt;Today marks the first day of my journey to becoming a programmer. From installing Rails to learning about conditionals, most of the day was spent doing this: &lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/FirstDayGIF.gif&quot; alt=&quot;So many emotions...&quot;&gt;
+Funny enough, we also learned about loops today!&lt;/p&gt;
+
+&lt;p&gt;Slowly, but surely, I can feel myself dipping my pinky toe into the giant ocean that is programming. I know it’s only going to get harder from here, but I also know that I’m ready for the challenge.&lt;/p&gt;
+</description>
+        <pubDate>Sun, 26 Apr 2015 00:00:00 -0500</pubDate>
+        <link>http://yourdomain.com/2015/04/26/day-one.html</link>
+        <guid isPermaLink="true">http://yourdomain.com/2015/04/26/day-one.html</guid>
+        
+        
+      </item>
+    
+  </channel>
+</rss>
