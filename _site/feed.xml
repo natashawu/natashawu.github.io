@@ -2,13 +2,224 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Natasha&#39;s Plog (Programming Blog)</title>
-    <description>This is a blog where I (Natasha Wu) will share my incredible insights on learning programming and dazzle my readers with clever prose and powerful narrative.
+    <description>This is the blog of a graphic designer turned full-stack developer. When I&#39;m not sitting in front of a computer, you&#39;ll find me baking up a storm.
 </description>
     <link>http://natashawu.github.io/</link>
     <atom:link href="http://natashawu.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 08 Jun 2015 12:05:41 -0500</pubDate>
-    <lastBuildDate>Mon, 08 Jun 2015 12:05:41 -0500</lastBuildDate>
+    <pubDate>Thu, 08 Oct 2015 18:04:03 -0700</pubDate>
+    <lastBuildDate>Thu, 08 Oct 2015 18:04:03 -0700</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
+    
+      <item>
+        <title>Day #106 - The End Marks The Beginning</title>
+        <description>&lt;p&gt;Here marks the end of the boot camp and the beginning of my life as a developer. I can&amp;#39;t be more excited to continue to learn more about programming and grow into a stronger developer.&lt;/p&gt;
+
+&lt;p&gt;I hope to continue posting my thoughts here, so if you&amp;#39;re interested in seeing where this path leads me...stay tuned!&lt;/p&gt;
+</description>
+        <pubDate>Sun, 09 Aug 2015 00:00:00 -0700</pubDate>
+        <link>http://natashawu.github.io/2015/08/09/day-onehundredsix.html</link>
+        <guid isPermaLink="true">http://natashawu.github.io/2015/08/09/day-onehundredsix.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Day #103 - Judgement Day</title>
+        <description>&lt;p&gt;Today’s the day! And here’s what I’ve got: 
+&lt;a href=&quot;http://www.devourgoodfood.com&quot; title=&quot;:Devour&quot;&gt;devourgoodfood.com&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/showcase1.jpg&quot; alt=&quot;Setup&quot;&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/showcase2.jpg&quot; alt=&quot;Setup&quot;&gt;&lt;/p&gt;
+
+&lt;p&gt;Thanks for coming out to visit, friends :)&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/visitors.jpg&quot; alt=&quot;I have friends!&quot;&gt;&lt;/p&gt;
+
+&lt;p&gt;Congrats, Emperor Penguins! We did it!&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/emperor_penguins.jpg&quot; alt=&quot;ACLTC: Emperor Penguins&quot;&gt;&lt;/p&gt;
+</description>
+        <pubDate>Thu, 06 Aug 2015 00:00:00 -0700</pubDate>
+        <link>http://natashawu.github.io/2015/08/06/day-onehundredthree.html</link>
+        <guid isPermaLink="true">http://natashawu.github.io/2015/08/06/day-onehundredthree.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Day #100 - Remembering to Give Thanks</title>
+        <description>&lt;p&gt;Day after day of this adventure here in Chicago, I am reminded of how I wouldn’t be here without the support of my friends and family. Thank you to everyone who believed in me :)&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/fam.jpg&quot; alt=&quot;Nothing beats family&quot;&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/kiks.png&quot; alt=&quot;Hanging out w. Kiks!&quot;&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/lily.jpg&quot; alt=&quot;Lily&amp;#39;s first visit to Chicago&quot;&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/kevin.jpg&quot; alt=&quot;Best boyfriend&quot;&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/besties.jpg&quot; alt=&quot;Besties!&quot;&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/harker_reunion.jpg&quot; alt=&quot;Mini high school reunion&quot;&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/jonny.png&quot; alt=&quot;Skype date w. Jonny!&quot;&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/isaac2.png&quot; alt=&quot;Skype date w. Isaac!&quot;&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/world.jpg&quot; alt=&quot;On top of the world&quot;&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/rachael.jpg&quot; alt=&quot;We&amp;#39;re on a boat!&quot;&gt;&lt;/p&gt;
+
+&lt;p&gt;Extra special thanks to this guy: &lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/eric.jpg&quot; alt=&quot;Best everything&quot;&gt;
+I can&amp;#39;t thank you enough for your patience, time and kindness. If there were a &amp;quot;Best Personal TA&amp;quot; award, you&amp;#39;d get it for sure. &lt;/p&gt;
+</description>
+        <pubDate>Mon, 03 Aug 2015 00:00:00 -0700</pubDate>
+        <link>http://natashawu.github.io/2015/08/03/day-onehundred.html</link>
+        <guid isPermaLink="true">http://natashawu.github.io/2015/08/03/day-onehundred.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Day #74 - Prying</title>
+        <description>&lt;p&gt;We’ve been working on our capstones for a good couple weeks now and it’s been a lot of hard work, but pretty rewarding as well. For me, one of the most frustrating parts about creating my Rails app has been debugging. Throughout the course, we’ve learned how to use IRB and Rails console as tools for debugging. But to be honest, Rails console still freaks me out -- the syntax is really difficult for me to remember and one misplaced curly brace immediately returns a whole slew of error messages. User friendliness rating on a scale of 1 to 10: -3&lt;/p&gt;
+
+&lt;p&gt;I was asking one of our TAs, Trevor, for help on my project today and he showed me this great alternative to IRB and Rails console called Pry. Pry-rails is a gem that allows you to run, pause and inspect code that you’re running on your local machine. It’s almost like a time-turner for code.&lt;/p&gt;
+
+&lt;p&gt;My favorite part: 2-step installation.&lt;/p&gt;
+
+&lt;p&gt;First, add the following gem to your gem file: 
+&lt;code&gt;gem &amp;#39;pry-rails&amp;#39;, :group =&amp;gt; :development&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;Then:
+&lt;code&gt;bundle install&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;And that’s it!&lt;/p&gt;
+
+&lt;p&gt;Here’s how to use it: &lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Put the words &lt;code&gt;binding pry&lt;/code&gt; wherever you think your code may be triggering an error. &lt;/li&gt;
+&lt;li&gt;Run &lt;code&gt;rails server&lt;/code&gt; in Terminal. &lt;/li&gt;
+&lt;li&gt;You’ll see that the loader for the web page will start to move slower. Go into Terminal and you’ll see that it now shows something along the lines of &lt;code&gt;[1] pry(#&amp;lt;nameofinspectedfile&amp;gt;)&amp;gt;&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Type anything that you would normally be able to type into Rails console into Pry to try and figure out why your code is breaking! &lt;/li&gt;
+&lt;li&gt;Once you’re ready to “un-pause” the code, type &lt;code&gt;exit&lt;/code&gt; and the code should run through to the end again.&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+        <pubDate>Wed, 08 Jul 2015 00:00:00 -0700</pubDate>
+        <link>http://natashawu.github.io/2015/07/08/day-seventyfour.html</link>
+        <guid isPermaLink="true">http://natashawu.github.io/2015/07/08/day-seventyfour.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Day #57 - Ready, Set, Go!</title>
+        <description>&lt;p&gt;We’re already at Week 7 and that means (cue fanfare...or ominous dun-dun-DUUUN) it’s time to start on our capstones! Stay tuned to find out what I’m building :)&lt;/p&gt;
+</description>
+        <pubDate>Sun, 21 Jun 2015 00:00:00 -0700</pubDate>
+        <link>http://natashawu.github.io/2015/06/21/day-fiftyseven.html</link>
+        <guid isPermaLink="true">http://natashawu.github.io/2015/06/21/day-fiftyseven.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Day #31 - Intro to Rails</title>
+        <description>&lt;p&gt;Prior to this course, I was telling anyone who asked that I would be learning Ruby on Rails, not knowing at all what Ruby or Rails really was. A typical conversation went like this: &lt;/p&gt;
+
+&lt;p&gt;“Oh, cool! Do you know what languages you’ll be learning at the bootcamp?”&lt;/p&gt;
+
+&lt;p&gt;“Yeah, we’ll be starting off with Ruby and going on to Ruby on Rails.”&lt;/p&gt;
+
+&lt;p&gt;“Nice!”&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;both smiling, nodding and equally confused&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Thankfully, today changed all that. Historically: &lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Rails was created as an open source project in 2004 by, co-founder of Basecamp and supposed programming badass, David Heinemeier Hansson (from this point forward referred to as DHH). I don’t know much about DHH, but he’s pretty famous in the coding world. And according to his Wikipedia page, he also drives race cars! I’d say that’s pretty badass.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Rails is basically a giant Ruby gem (but most people call it a framework) where a lot of people wrote a lot of code to make it easier to get a website up and running quickly.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Rails follows a model called MVC, which stands for “model-view-controller.” This is the convention that Rails uses to organize where code goes in a web application.* In very simplified terms, a controller tells a model what to do. A model grabs the appropriate data from the database (based on what the controller tells it to get) and passes it to the view. A view generates an output for the user to see based on the data that the model passes to it. Of course, there’s a little more back and forth and it’s not always a perfect loop, but that’s how I like to think of it in a general sense. &lt;/p&gt;
+
+&lt;p&gt;In our class, we like to think of the flow as being RCV -- “routes-controller-view.” In the routes file, you list all the possible web request combinations for your site. That means that if you want to have: thingsilove.com/cookies/index, thingsilove.com/cookies/about and thingsilove.com/cookies/new, you would have to list this in the routes file in the following fashion:&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;get “/index” =&amp;gt; &amp;#39;cookies#index’&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;Where &lt;code&gt;get&lt;/code&gt; is the verb, &lt;code&gt;/index&lt;/code&gt; is the url, &lt;code&gt;cookies&lt;/code&gt; is the controller and &lt;code&gt;index&lt;/code&gt; is the name of the controller action. Remember, a &lt;a href=&quot;/2015/05/25/day-thirty.html&quot;&gt;web request&lt;/a&gt; is an HTTP verb + a URL. &lt;/p&gt;
+
+&lt;p&gt;At first, all these rules and conventions seemed kind of daunting, but I quickly realized how much of a pain it would be to make a website without them. Everything would be a mess of a billion files -- with random names, in random folders. In that situation, I don’t even want to think about trying to pick up something another developer has already started. So thank you, Rails (and I guess DHH + co.) for making life easier. &lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Wait, “web application?” Don’t you mean “web site?” Or “mobile application?” No, I mean “web application.” And yes, it is confusing. I like to think that most modern websites are web applications -- they require user interaction to be useful. Web applications allow users to do anything from comment on a post to look up a destination on an interactive map. Web sites, on the other hand, are static pieces of the Internet that display information for the user to consume -- think of your local bar or grocery store’s online website. You can’t comment on anything or shop online, the only thing you can do is read about today’s specials and find out what their store hours are. For further explanation, look &lt;a href=&quot;http://www.visionmobile.com/blog/2013/07/web-sites-vs-web-apps-what-the-experts-think/&quot; title=&quot;Web sites vs. Web Apps&quot;&gt;here&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Tue, 26 May 2015 00:00:00 -0700</pubDate>
+        <link>http://natashawu.github.io/2015/05/26/day-thirtyone.html</link>
+        <guid isPermaLink="true">http://natashawu.github.io/2015/05/26/day-thirtyone.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Day #30 - What&#39;s in a Web Request?</title>
+        <description>&lt;p&gt;You go to the address bar in the browser, type in “facebook.com” and viola!, you see the familiar blue and white website frequented by millennials (ok, it’s really cross-generational now -- my two-year-old cousin and my seventy-eight-year-old grandma both have a Facebook) around the world. &lt;/p&gt;
+
+&lt;p&gt;But what really happens when you type in that web address?&lt;/p&gt;
+
+&lt;p&gt;Think back, to the days of typing “http://” as a prefix. Yeah, I know, it’s been a while. But that is the beginning of a web request, or an HTTP request. HTTP is the simple protocol (kind of like a language) that browsers and servers use to communicate with each other. Basically, when you type in that address, your computer sends a web request to get something (a file, an image, etc.) from a server. The server then passes its response to the browser where you (hopefully) see what you’re looking for. &lt;/p&gt;
+
+&lt;p&gt;To the best of my current knowledge, web request always contains an HTTP verb and a URL. An HTTP verb defines the action to be taken on the URL and the URL tells the server where to look for the appropriate information that it will eventually send back to the browser. &lt;/p&gt;
+
+&lt;p&gt;And that, my friends, is what I learned about web requests today in a nutshell.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 25 May 2015 00:00:00 -0700</pubDate>
+        <link>http://natashawu.github.io/2015/05/25/day-thirty.html</link>
+        <guid isPermaLink="true">http://natashawu.github.io/2015/05/25/day-thirty.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Day #23 - Revisiting Ruby &amp; Learning Shortcuts</title>
+        <description>&lt;p&gt;Today, we reviewed what we’d learned in our class prework about Ruby. So far, it’s been great! I’m finding Ruby very intuitive in terms of syntax, which definitely makes it a lot easier to pick up. Historically: &lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Ruby was invented around 1995 by a Japanese software programmer named, Yukihiro Matsumoto&lt;/li&gt;
+&lt;li&gt;It was developed as a language that would be closest to the human language and thus, help programmers focus on coding itself rather than being distracted by remembering complicated syntax. &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;We also learned a lot about our text editor of choice: Sublime Text. Shortcuts that have made my life much easier: &lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Comment out a line: CMD + /&lt;/li&gt;
+&lt;li&gt;Going to the front or end of a line: CMD + left/right arrows&lt;/li&gt;
+&lt;li&gt;Insert line before: CMD + SHIFT + enter&lt;/li&gt;
+&lt;li&gt;Move a line or section: CTRL + CMD + up/down arrows&lt;/li&gt;
+&lt;li&gt;Delete entire line: CMD + delete&lt;/li&gt;
+&lt;li&gt;Indenting: CMD + ]&lt;/li&gt;
+&lt;li&gt;Unindenting: CMD + [&lt;/li&gt;
+&lt;li&gt;Show/hide sidebar: CMD + k + b&lt;/li&gt;
+&lt;li&gt;Selecting multiple lines: CMD + click&lt;/li&gt;
+&lt;li&gt;Selecting multiples of the same word (after word is already highlighted): CMD + d&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;There are WAY more helpful shortcuts in Sublime than the ones I&amp;#39;ve listed above, but I&amp;#39;m still in the process of remembering all of them. In the meantime, here are some helpful resources I found: &lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://sublime-text-unofficial-documentation.readthedocs.org/en/latest/reference/keyboard_shortcuts_osx.html&quot; title=&quot;First cheat sheet&quot;&gt;Cheat sheet 1&lt;/a&gt; | &lt;a href=&quot;http://marcelkalveram.com/2013/11/10-shortcuts-to-become-a-true-sublime-text-ninja/&quot; title=&quot;Second cheat sheet&quot;&gt;Cheat sheet 2&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Mon, 18 May 2015 00:00:00 -0700</pubDate>
+        <link>http://natashawu.github.io/2015/05/18/day-twentythree.html</link>
+        <guid isPermaLink="true">http://natashawu.github.io/2015/05/18/day-twentythree.html</guid>
+        
+        
+      </item>
     
       <item>
         <title>Day #22 - The In-Person Beginning</title>
@@ -39,7 +250,7 @@ git commit -m ‘initial commit’
 git push origin master
 # This line pushes all the files up to GitHub in a new repository that you create
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</description>
-        <pubDate>Sun, 17 May 2015 00:00:00 -0500</pubDate>
+        <pubDate>Sun, 17 May 2015 00:00:00 -0700</pubDate>
         <link>http://natashawu.github.io/2015/05/17/day-twentytwo.html</link>
         <guid isPermaLink="true">http://natashawu.github.io/2015/05/17/day-twentytwo.html</guid>
         
@@ -57,106 +268,9 @@ May != rainy season&lt;/p&gt;
 &lt;p&gt;Sincerely,&lt;br&gt;
 Confused Californian&lt;/p&gt;
 </description>
-        <pubDate>Sun, 10 May 2015 00:00:00 -0500</pubDate>
+        <pubDate>Sun, 10 May 2015 00:00:00 -0700</pubDate>
         <link>http://natashawu.github.io/2015/05/10/day-fifteen.html</link>
         <guid isPermaLink="true">http://natashawu.github.io/2015/05/10/day-fifteen.html</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Day #9 - Feelin&#39; Lucky</title>
-        <description>&lt;p&gt;My friends and family are honestly the best. Without them as a support system, I definitely would not have been able to do what I’m setting off to do. California, you’ve been so good to me. Thank you. &lt;/p&gt;
-
-&lt;p&gt;First day in Chicago has already been quite the adventure!&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;In an attempt to avoid the ridiculously long taxi line, I opted to take the train into The Loop. After wrestling with the ticket machine, I finally got it to take my money and purchased my ticket for the orange line.&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;Instead of transferring to the red line, I decided to just call an Uber to take me the rest of the way. Upon exiting the train, my luggage and I got stuck in the revolving gate at Randolph / Wabash. Determined not to make the headlines of the local news (“California Girl Gets Stuck Exiting the El”), I doggedly inched my way out of the gate. &lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;Without enough strength or balance to carry all my luggage down a flight of rickety wooden stairs in one go, I proceeded to carry my suitcase (48 lbs.) and duffle bag (24 lbs.) down half a flight at a time until I reached street level. &lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;As I approached my Uber, the driver popped open the trunk and waited for me to load my luggage into the car. After finally settling in to the front seat, he jokingly asked “Did a little too much shopping, huh?” I proceeded to restrain myself from punching him in the face. &lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;As I stood outside the building of my temporary home, with my duffle bag hanging around my neck like a chunky statement necklace (as the shoulder strap had broken as I exited the train), my AirBnB host and I texted back and forth trying to figure out the entrance code to his apartment building. 080 -- never would have guessed that. &lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;Luckily, at the end of the night, I was able to catch up with two familiar faces :)
-&lt;img src=&quot;/images/050415_IMG_2688_small.gif&quot; alt=&quot;I love my friends!&quot;&gt;&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;It wasn’t easy, but I made it. And I’m not planning on stopping any time soon. &lt;/p&gt;
-</description>
-        <pubDate>Mon, 04 May 2015 00:00:00 -0500</pubDate>
-        <link>http://natashawu.github.io/2015/05/04/day-nine.html</link>
-        <guid isPermaLink="true">http://natashawu.github.io/2015/05/04/day-nine.html</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Day #8 - Note To Self</title>
-        <description>&lt;p&gt;“The computer is never wrong, you’re just telling it the wrong thing.”&lt;br&gt;
-- Jonny Wang, Good Friend &amp;amp; Master Programmer&lt;/p&gt;
-</description>
-        <pubDate>Sun, 03 May 2015 00:00:00 -0500</pubDate>
-        <link>http://natashawu.github.io/2015/05/03/day-eight.html</link>
-        <guid isPermaLink="true">http://natashawu.github.io/2015/05/03/day-eight.html</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Day #2 - The OTHER Chris Pine</title>
-        <description>&lt;p&gt;Today, I continued watching more screencasts prepared by our wonderfully hilarious instructor, Jay Wengrow. I’m starting to think I like programmers’ brand of humor. Maybe I really am more ready for this than I thought…!&lt;/p&gt;
-
-&lt;p&gt;Anyhow, the screencasts really make me feel like I can learn to code, which is awesome! I&amp;#39;ve still been getting stuck on some of the exercises, but I’m working on figuring those out. We’ve been making some pretty simple programs. One of my favorites, thus far: &lt;/p&gt;
-&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;This is a word randomizer! Please enter a word that you would like randomized.&amp;quot;&lt;/span&gt;
-
-&lt;span class=&quot;n&quot;&gt;word&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;gets&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;chomp&lt;/span&gt;
-
-&lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;Here is your word randomized!&amp;quot;&lt;/span&gt;
-
-&lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;word&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;split&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&amp;quot;&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;shuffle&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;join&lt;/span&gt;
-
-&lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;Thanks for playing!&amp;quot;&lt;/span&gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;p&gt;In this program, the user is asked to input a word and the program spits out a randomized version of the inputted word. Here, I&amp;#39;m setting the variable &amp;#39;word&amp;#39; to &lt;code&gt;gets.chomp&lt;/code&gt; which is a command used to recieve input from the user. To randomize the word, the program 1.) splits up the user&amp;#39;s input into it&amp;#39;s individual characters then 2.) shuffles the positions of the characters into a random order and finally 3.) joins all the characters back together and returns the result to the user. &lt;/p&gt;
-
-&lt;p&gt;Super simple, but I’m totally cool with starting off slow. &lt;/p&gt;
-
-&lt;p&gt;I also started reading our e-textbook, Learn to Program by Chris Pine (the L.A. girl in me totally summoned up an image of Captain Kirk from the latest Star Trek movie...embarrassing, I know). At first, I was a little intimidated because 1.) I haven’t read a textbook in many years and 2.) I hate reading large quantities of text on a computer screen. However, I’m finding it to be another wonderful resource to have at our disposal! &lt;/p&gt;
-
-&lt;p&gt;In his introduction, Pine writes about how “[a] program is not built; it is grown,” suggesting that a program is meant to be tested, edited and finagled with. Keeping that in mind, it seems to me that the process taken to get to the end result should be regarded as being just as important as the result itself. As a designer, that idea is something I really resonated with. I have always felt that the work I am most proud of are those pieces that challenged me -- the ones that urged me to question my initial instinct; the ones that pushed me to the brink of insanity in order to show me how to turn something good into something great. &lt;/p&gt;
-
-&lt;p&gt;I look forward to approaching coding with a similar mindset as I’m sure the programs that at times make me want to rip my hair out will be the ones that I’m most proud of in the end. &lt;/p&gt;
-</description>
-        <pubDate>Mon, 27 Apr 2015 00:00:00 -0500</pubDate>
-        <link>http://natashawu.github.io/2015/04/27/day-two.html</link>
-        <guid isPermaLink="true">http://natashawu.github.io/2015/04/27/day-two.html</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Day #1 - Out of the Loop</title>
-        <description>&lt;p&gt;I recently quit my job as a graphic designer at an entertainment ad agency in Los Angeles to move over 2,000 miles away to a city I’ve never been to before, to pursue a career path that I have no background in. Why? Because the best cure for complacency is change. &lt;/p&gt;
-
-&lt;p&gt;I’ve wanted to learn how to code for a while now as I’ve always thought it to be an integral part of being a strong designer in our digitally-focused world. I kept telling myself I would just learn on my own. With all the online programs and tutorials out there, how hard could it be? “Now that I’m out of school, I’ll have so much more free time to accomplish my life goals!” I thought. Little did I know that on the days when I actually got out of work at a decent hour, all I wanted to do after battling traffic to get home (yes, sometimes there’s still traffic in L.A. at 8PM) was get a couple extra hours of sleep or me-time. &lt;/p&gt;
-
-&lt;p&gt;I loved the people that I worked with, but the repetitiveness of what I was doing at work was leeching away all the creativity out of a job that’s meant to be creative. And it wasn’t just the work I was tired of, it was me. I was tired of being consistently decent. I was tired of being content with the status quo. I was tired of who I had become. &lt;/p&gt;
-
-&lt;p&gt;Wake up, work, sleep. Wake up, work, sleep. Go out on Saturday. Recover on Sunday. Repeat. &lt;/p&gt;
-
-&lt;p&gt;One day, I called my mom in a panic and told her that I felt like I was treadmill that had no stop button. I was letting external factors control what I really wanted to do and my soul was suffering from it. I was stuck in an infinite loop and I couldn’t find ctrl + c. In that moment, I realized that the only way to get off that treadmill, was to jump. So I did, and never I looped back (heh heh. Clearly it’s just me laughing...).&lt;/p&gt;
-
-&lt;p&gt;Now, here I am, enrolled in code school and phenomenally excited to start learning something new. &lt;/p&gt;
-
-&lt;p&gt;Today marks the first day of my journey to becoming a programmer. From installing Rails to learning about conditionals, most of the day was spent doing this: &lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/FirstDayGIF.gif&quot; alt=&quot;So many emotions...&quot;&gt;
-Funny enough, we also learned about loops today!&lt;/p&gt;
-
-&lt;p&gt;Slowly, but surely, I can feel myself dipping my pinky toe into the giant ocean that is programming. I know it’s only going to get harder from here, but I also know that I’m ready for the challenge.&lt;/p&gt;
-</description>
-        <pubDate>Sun, 26 Apr 2015 00:00:00 -0500</pubDate>
-        <link>http://natashawu.github.io/2015/04/26/day-one.html</link>
-        <guid isPermaLink="true">http://natashawu.github.io/2015/04/26/day-one.html</guid>
         
         
       </item>
