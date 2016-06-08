@@ -2,7 +2,7 @@
 title: Natasha's Plog (Programming Blog)
 email: natasha.wu@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  This is the blog of a graphic designer turned full-stack developer. When I'm not sitting in front of a computer, you'll find me baking up a storm.
+  This is the blog of a graphic designer turned full-stack developer. When I'm not sitting in front of a computer, you'll find me by the nearest oven, baking up a storm.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://natashawu.github.io" # the base hostname & protocol for your site
 twitter_username: natashaswu

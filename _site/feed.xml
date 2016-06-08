@@ -6,9 +6,61 @@
 </description>
     <link>http://natashawu.github.io/</link>
     <atom:link href="http://natashawu.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 08 Oct 2015 18:14:53 -0700</pubDate>
-    <lastBuildDate>Thu, 08 Oct 2015 18:14:53 -0700</lastBuildDate>
+    <pubDate>Wed, 08 Jun 2016 10:22:43 -0700</pubDate>
+    <lastBuildDate>Wed, 08 Jun 2016 10:22:43 -0700</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
+    
+      <item>
+        <title>Life in SF Thus Far</title>
+        <description>&lt;p&gt;I wish I had written more blog posts between this last one this next one. It&amp;#39;s been a little over a year and a month since I started this blog and here&amp;#39;s what I&amp;#39;ve been up to: &lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Late-September, 2015 - Moving back to California&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;When I first made the decision to move back home, it felt like I was admitting defeat. While I had received multiple job offers from companies in Chicago, I didn&amp;#39;t feel like any of them were the right opportunity for me. I felt like I was so close to &amp;quot;making it&amp;quot; in a new city. I had a new set of skills under my belt, I had a whole new network of friends, but I just couldn&amp;#39;t seem to find that perfect job offer. Unfortunately, I was slowly, but surely draining my bank account. So I spent my birthday weekend in Chicago, said goodbye to friends, new and old, and reluctantly flew home. &lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;November, 2015 - What I learned from TAing&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;A couple months later, still without a full-time job, I accepted a teaching assistant position from the coding boot camp that I&amp;#39;d graduated from -- they were opening up a branch in San Francisco. I remember wishing that I could have been one of those role model TAs, working at a fancy new job post-graduation. I wanted to be able to tell people that I&amp;#39;d done it, I&amp;#39;d become a software engineer, not a teaching assistant. But I accepted the position regardless because I needed the work experience, and the money.&lt;/p&gt;
+
+&lt;p&gt;Class started and something horrible happened -- I realized how unfamiliar I was with some of the topics I had just learned six months ago. The first couple days  &lt;/p&gt;
+
+&lt;p&gt;I didn&amp;#39;t know it then, but this decision would turn out to be crucial to me getting my next job. &lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;January, 2016 - My First Software Engineering Position!&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;February, 2016 - Why did you do it, Nick Fuelling?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;March, 2016 - The Bed Frame Fiasco&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;May, 2016 - All Good Things...&lt;/strong&gt;&lt;/p&gt;
+</description>
+        <pubDate>Fri, 27 May 2016 00:00:00 -0700</pubDate>
+        <link>http://natashawu.github.io/2016/05/27/life-in-sf-thus-far.html</link>
+        <guid isPermaLink="true">http://natashawu.github.io/2016/05/27/life-in-sf-thus-far.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>What I Learned About Java</title>
+        <description></description>
+        <pubDate>Mon, 12 Oct 2015 00:00:00 -0700</pubDate>
+        <link>http://natashawu.github.io/2015/10/12/what-i-learned-about-java.html</link>
+        <guid isPermaLink="true">http://natashawu.github.io/2015/10/12/what-i-learned-about-java.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Post-Graduation</title>
+        <description>&lt;p&gt;What most people don&amp;#39;t tell you about graduating from any sort of educational institution -- whether it&amp;#39;s a 4-year univerity or a coding boot camp -- is that the hard work is just beginning. Getting a job is one of the toughest jobs out there.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 09 Oct 2015 00:00:00 -0700</pubDate>
+        <link>http://natashawu.github.io/2015/10/09/post-graduation.html</link>
+        <guid isPermaLink="true">http://natashawu.github.io/2015/10/09/post-graduation.html</guid>
+        
+        
+      </item>
     
       <item>
         <title>Day #106 - The End Marks The Beginning</title>
@@ -182,95 +234,6 @@ I can&amp;#39;t thank you enough for your patience, time and kindness. If there 
         <pubDate>Mon, 25 May 2015 00:00:00 -0700</pubDate>
         <link>http://natashawu.github.io/2015/05/25/day-thirty.html</link>
         <guid isPermaLink="true">http://natashawu.github.io/2015/05/25/day-thirty.html</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Day #23 - Revisiting Ruby &amp; Learning Shortcuts</title>
-        <description>&lt;p&gt;Today, we reviewed what we’d learned in our class prework about Ruby. So far, it’s been great! I’m finding Ruby very intuitive in terms of syntax, which definitely makes it a lot easier to pick up. Historically: &lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Ruby was invented around 1995 by a Japanese software programmer named, Yukihiro Matsumoto&lt;/li&gt;
-&lt;li&gt;It was developed as a language that would be closest to the human language and thus, help programmers focus on coding itself rather than being distracted by remembering complicated syntax. &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;We also learned a lot about our text editor of choice: Sublime Text. Shortcuts that have made my life much easier: &lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Comment out a line: CMD + /&lt;/li&gt;
-&lt;li&gt;Going to the front or end of a line: CMD + left/right arrows&lt;/li&gt;
-&lt;li&gt;Insert line before: CMD + SHIFT + enter&lt;/li&gt;
-&lt;li&gt;Move a line or section: CTRL + CMD + up/down arrows&lt;/li&gt;
-&lt;li&gt;Delete entire line: CMD + delete&lt;/li&gt;
-&lt;li&gt;Indenting: CMD + ]&lt;/li&gt;
-&lt;li&gt;Unindenting: CMD + [&lt;/li&gt;
-&lt;li&gt;Show/hide sidebar: CMD + k + b&lt;/li&gt;
-&lt;li&gt;Selecting multiple lines: CMD + click&lt;/li&gt;
-&lt;li&gt;Selecting multiples of the same word (after word is already highlighted): CMD + d&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;There are WAY more helpful shortcuts in Sublime than the ones I&amp;#39;ve listed above, but I&amp;#39;m still in the process of remembering all of them. In the meantime, here are some helpful resources I found: &lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;http://sublime-text-unofficial-documentation.readthedocs.org/en/latest/reference/keyboard_shortcuts_osx.html&quot; title=&quot;First cheat sheet&quot;&gt;Cheat sheet 1&lt;/a&gt; | &lt;a href=&quot;http://marcelkalveram.com/2013/11/10-shortcuts-to-become-a-true-sublime-text-ninja/&quot; title=&quot;Second cheat sheet&quot;&gt;Cheat sheet 2&lt;/a&gt;&lt;/p&gt;
-</description>
-        <pubDate>Mon, 18 May 2015 00:00:00 -0700</pubDate>
-        <link>http://natashawu.github.io/2015/05/18/day-twentythree.html</link>
-        <guid isPermaLink="true">http://natashawu.github.io/2015/05/18/day-twentythree.html</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Day #22 - The In-Person Beginning</title>
-        <description>&lt;p&gt;It was a drizzly Sunday morning. The day we had all been waiting for finally arrived -- the first day of school! &lt;/p&gt;
-
-&lt;p&gt;After a tour around the amazing 1871 coworking space, we began an overview of key lessons we would consistently be reminded of throughout the class. A few that stuck:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Every piece of tech has its pros and cons -- we were reminded that there is a time and place for everything. There are rarely hard, fast rules about what language/software/etc. works best 100% of the time (even if many developers think there are). &lt;/li&gt;
-&lt;li&gt;Tinker! -- we were told that programming is about testing many possible solutions. If you’re not sure which way to go, just try something out and see what happens. &lt;/li&gt;
-&lt;li&gt;Always be learning -- wonderfully simplistic and completely self-explanatory.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Our first lecture made me feel like a true hacker. Wait...I can do all these things from the Terminal?! From &lt;code&gt;cd-ing&lt;/code&gt; into new directories (basically going from one folder to another WITHOUT using Finder!) to learning the dangers of &lt;code&gt;rm -rf&lt;/code&gt; (this gives us the power to delete ANY file on our computers...permanently), at this point, we felt pretty much like computer whizzes. &lt;/p&gt;
-
-&lt;p&gt;Then, we learned about this confusing thing called Git and this popular site that uses it called GitHub. All in all, it’s a site where you can push your code into the cloud so that if (&lt;strong&gt;when&lt;/strong&gt; -- as our instructor always says) your computer crashes, you still have a backup copy of it. It’s also commonly used as a way for programmers to collaborate on projects together. &lt;/p&gt;
-
-&lt;p&gt;The most important four lines of code that I learned today: &lt;/p&gt;
-&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-text&quot; data-lang=&quot;text&quot;&gt;git init
-# This line tells git to initiate tracking changes of the folder you’re currently navigated in
-
-git add --all
-# This line prepares to add all the files to a git repository
-
-git commit -m ‘initial commit’
-# This line commits any changes made and allows you to put in your own commit message between the apostrophes
-
-git push origin master
-# This line pushes all the files up to GitHub in a new repository that you create
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</description>
-        <pubDate>Sun, 17 May 2015 00:00:00 -0700</pubDate>
-        <link>http://natashawu.github.io/2015/05/17/day-twentytwo.html</link>
-        <guid isPermaLink="true">http://natashawu.github.io/2015/05/17/day-twentytwo.html</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Day #15 - To: My Current City of Inhabitance</title>
-        <description>&lt;p&gt;Dear Chicago,&lt;br&gt;
-Just so you know…&lt;br&gt;
-May != rainy season&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/051015_IMG_2971_small.jpg&quot; alt=&quot;50 degrees and cloudy&quot;&gt;&lt;/p&gt;
-
-&lt;p&gt;Sincerely,&lt;br&gt;
-Confused Californian&lt;/p&gt;
-</description>
-        <pubDate>Sun, 10 May 2015 00:00:00 -0700</pubDate>
-        <link>http://natashawu.github.io/2015/05/10/day-fifteen.html</link>
-        <guid isPermaLink="true">http://natashawu.github.io/2015/05/10/day-fifteen.html</guid>
         
         
       </item>
