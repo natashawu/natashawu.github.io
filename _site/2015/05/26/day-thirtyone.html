@@ -11,7 +11,7 @@
 
   <link rel="stylesheet" href="/css/main.css">
   <link rel="canonical" href="http://natashawu.github.io/2015/05/26/day-thirtyone.html">
-  <link rel="alternate" type="application/rss+xml" title="Natasha's Plog (Programming Blog)" href="http://natashawu.github.io/feed.xml" />
+  <link rel="alternate" type="application/rss+xml" title="swun writes" href="http://natashawu.github.io/feed.xml" />
 </head>
 
 
@@ -21,7 +21,7 @@
 
   <div class="wrapper">
 
-    <a class="site-title" href="/">Natasha's Plog (Programming Blog)</a>
+    <a class="site-title" href="/">swun writes</a>
 
     <nav class="site-nav">
       <a href="#" class="menu-icon">
@@ -62,7 +62,7 @@
   </header>
 
   <article class="post-content">
-    <p>Prior to this course, I was telling anyone who asked that I would be learning Ruby on Rails, not knowing at all what Ruby or Rails really was. A typical conversation went like this: </p>
+    <p>Prior to this course, I was telling anyone who asked that I would be learning Ruby on Rails, not knowing at all what Ruby or Rails really was. A typical conversation went like this:</p>
 
 <p>“Oh, cool! Do you know what languages you’ll be learning at the bootcamp?”</p>
 
@@ -72,25 +72,29 @@
 
 <p><em>both smiling, nodding and equally confused</em></p>
 
-<p>Thankfully, today changed all that. Historically: </p>
+<p>Thankfully, today changed all that. Historically:</p>
 
 <ul>
-<li><p>Rails was created as an open source project in 2004 by, co-founder of Basecamp and supposed programming badass, David Heinemeier Hansson (from this point forward referred to as DHH). I don’t know much about DHH, but he’s pretty famous in the coding world. And according to his Wikipedia page, he also drives race cars! I’d say that’s pretty badass.</p></li>
-<li><p>Rails is basically a giant Ruby gem (but most people call it a framework) where a lot of people wrote a lot of code to make it easier to get a website up and running quickly.</p></li>
+  <li>
+    <p>Rails was created as an open source project in 2004 by, co-founder of Basecamp and supposed programming badass, David Heinemeier Hansson (from this point forward referred to as DHH). I don’t know much about DHH, but he’s pretty famous in the coding world. And according to his Wikipedia page, he also drives race cars! I’d say that’s pretty badass.</p>
+  </li>
+  <li>
+    <p>Rails is basically a giant Ruby gem (but most people call it a framework) where a lot of people wrote a lot of code to make it easier to get a website up and running quickly.</p>
+  </li>
 </ul>
 
-<p>Rails follows a model called MVC, which stands for “model-view-controller.” This is the convention that Rails uses to organize where code goes in a web application.* In very simplified terms, a controller tells a model what to do. A model grabs the appropriate data from the database (based on what the controller tells it to get) and passes it to the view. A view generates an output for the user to see based on the data that the model passes to it. Of course, there’s a little more back and forth and it’s not always a perfect loop, but that’s how I like to think of it in a general sense. </p>
+<p>Rails follows a model called MVC, which stands for “model-view-controller.” This is the convention that Rails uses to organize where code goes in a web application.* In very simplified terms, a controller tells a model what to do. A model grabs the appropriate data from the database (based on what the controller tells it to get) and passes it to the view. A view generates an output for the user to see based on the data that the model passes to it. Of course, there’s a little more back and forth and it’s not always a perfect loop, but that’s how I like to think of it in a general sense.</p>
 
-<p>In our class, we like to think of the flow as being RCV -- “routes-controller-view.” In the routes file, you list all the possible web request combinations for your site. That means that if you want to have: thingsilove.com/cookies/index, thingsilove.com/cookies/about and thingsilove.com/cookies/new, you would have to list this in the routes file in the following fashion:</p>
+<p>In our class, we like to think of the flow as being RCV – “routes-controller-view.” In the routes file, you list all the possible web request combinations for your site. That means that if you want to have: thingsilove.com/cookies/index, thingsilove.com/cookies/about and thingsilove.com/cookies/new, you would have to list this in the routes file in the following fashion:</p>
 
-<p><code>get “/index” =&gt; &#39;cookies#index’</code></p>
+<p><code class="highlighter-rouge">get “/index” =&gt; 'cookies#index’</code></p>
 
-<p>Where <code>get</code> is the verb, <code>/index</code> is the url, <code>cookies</code> is the controller and <code>index</code> is the name of the controller action. Remember, a <a href="/2015/05/25/day-thirty.html">web request</a> is an HTTP verb + a URL. </p>
+<p>Where <code class="highlighter-rouge">get</code> is the verb, <code class="highlighter-rouge">/index</code> is the url, <code class="highlighter-rouge">cookies</code> is the controller and <code class="highlighter-rouge">index</code> is the name of the controller action. Remember, a <a href="/2015/05/25/day-thirty.html">web request</a> is an HTTP verb + a URL.</p>
 
-<p>At first, all these rules and conventions seemed kind of daunting, but I quickly realized how much of a pain it would be to make a website without them. Everything would be a mess of a billion files -- with random names, in random folders. In that situation, I don’t even want to think about trying to pick up something another developer has already started. So thank you, Rails (and I guess DHH + co.) for making life easier. </p>
+<p>At first, all these rules and conventions seemed kind of daunting, but I quickly realized how much of a pain it would be to make a website without them. Everything would be a mess of a billion files – with random names, in random folders. In that situation, I don’t even want to think about trying to pick up something another developer has already started. So thank you, Rails (and I guess DHH + co.) for making life easier.</p>
 
 <ul>
-<li>Wait, “web application?” Don’t you mean “web site?” Or “mobile application?” No, I mean “web application.” And yes, it is confusing. I like to think that most modern websites are web applications -- they require user interaction to be useful. Web applications allow users to do anything from comment on a post to look up a destination on an interactive map. Web sites, on the other hand, are static pieces of the Internet that display information for the user to consume -- think of your local bar or grocery store’s online website. You can’t comment on anything or shop online, the only thing you can do is read about today’s specials and find out what their store hours are. For further explanation, look <a href="http://www.visionmobile.com/blog/2013/07/web-sites-vs-web-apps-what-the-experts-think/" title="Web sites vs. Web Apps">here</a>.</li>
+  <li>Wait, “web application?” Don’t you mean “web site?” Or “mobile application?” No, I mean “web application.” And yes, it is confusing. I like to think that most modern websites are web applications – they require user interaction to be useful. Web applications allow users to do anything from comment on a post to look up a destination on an interactive map. Web sites, on the other hand, are static pieces of the Internet that display information for the user to consume – think of your local bar or grocery store’s online website. You can’t comment on anything or shop online, the only thing you can do is read about today’s specials and find out what their store hours are. For further explanation, look <a href="http://www.visionmobile.com/blog/2013/07/web-sites-vs-web-apps-what-the-experts-think/" title="Web sites vs. Web Apps">here</a>.</li>
 </ul>
 
   </article>
@@ -104,13 +108,13 @@
 
   <div class="wrapper">
 
-    <h2 class="footer-heading">Natasha's Plog (Programming Blog)</h2>
+    <h2 class="footer-heading">swun writes</h2>
 
     <div class="footer-col-wrapper">
       <div class="footer-col  footer-col-1">
         <ul class="contact-list">
-          <li>Natasha's Plog (Programming Blog)</li>
-          <li><a href="mailto:natasha.wu@gmail.com">natasha.wu@gmail.com</a></li>
+          <li>swun writes</li>
+          <li><a href="mailto:natasha.s.wu@gmail.com">natasha.s.wu@gmail.com</a></li>
         </ul>
       </div>
 
@@ -148,7 +152,7 @@
       </div>
 
       <div class="footer-col  footer-col-3">
-        <p class="text">This is the blog of a graphic designer / full-stack developer. When I'm not sitting in front of a computer, you'll find me by the nearest oven, baking up a storm.
+        <p class="text">A designer who codes and writes about life
 </p>
       </div>
     </div>
