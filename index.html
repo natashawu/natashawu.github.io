@@ -1,26 +1,45 @@
 ---
 layout: default
+<!-- projects:
+  - project_path: /portfolio/project1.html
+  - title: Project1 -->
 ---
 
 <div class="home">
 
-  <!-- <h1 class="page-heading">Posts</h1>
+  <!-- <h1 class="page-heading">Portfolio</h1> -->
+  <div class="wrap bottom">
+    <div class="content">
+      <div class="project">
+        <a href="/portfolio/doordash/doordash.html">
+          <img src="/portfolio/doordash/DD_Screens_Only_Behance_NEW_Selects.jpg">
+          <p>Doordash Redesign</p>
+        </a>
+      </div>
+    </div>
+  </div>
 
-  <ul class="post-list">
-    {% for post in site.posts %}
+
+</div>
+
+
+  <!-- {% for project in page.projects %}
+    {{ project.title }}
+  {% endfor %} -->
+  <!-- <ul class="portfolio">
+    {% for project in site.categories.portfolio %}
       <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+        <span class="project-meta">{{ project.date | date: "%b %-d, %Y" }}</span>
 
         <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+          <a class="project-link" href="{{ project.url | prepend: site.baseurl }}">{{ project.title }}</a>
         </h2>
 
-        {{ post.excerpt }}
-        <a href="{{ post.url | prepend: site.baseurl }}">Read More</a>
+        {{ project.excerpt }}
+        <a href="{{ project.url | prepend: site.baseurl }}">Read More</a>
       </li>
     {% endfor %}
-  </ul>
+  </ul> -->
 
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p> -->
 
 </div>
