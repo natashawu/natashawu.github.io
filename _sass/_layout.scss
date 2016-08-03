@@ -16,7 +16,7 @@
   color: lighten($brand-color, 10%);
 
   &:hover {
-    color: $highlight-color;
+    color: lighten($brand-color, 30%);;
   }
 }
 
@@ -31,7 +31,7 @@
     color: lighten($brand-color, 10%);
 
     &:hover {
-        color: $highlight-color;
+        color: lighten($brand-color, 30%);;
     }
 }
 
